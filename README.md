@@ -1,7 +1,7 @@
 # node-mysql-crud-app
 Simple CRUD app tutorial using node by [Atauba Prince](https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me)
 
-##required modules 
+## Required modules 
 
 - Express : used to create handle routing and proccess request from the client
 - express-fileupload: Simple express file upload middleware that wraps around busboy.
