@@ -13,18 +13,18 @@ Simple CRUD app tutorial using node by [Atauba Prince](https://dev.to/achowba/bu
 
 
 ### Folder Structure 
-├── node-mqsql-crud-app (main directory)   
-    ├── node_modules
-    ├── public
-        ├── assets 
-            ├── img
-    ├── routes
-        ├── index.js
-        ├── player.js
-    ├── views
-        ├── partials 
-            ├── header.ejs
-        ├── index.ejs
-        ├── add-player.ejs
-        ├── edit-player.ejs
-    ├── app.js    
+* node-mqsql-crud-app (main directory)   
+    * node_modules
+    * public
+        * assets 
+        * img
+    * routes
+        * index.js
+        * player.js
+    * views
+        * partials 
+            * header.ejs
+        * index.ejs
+        * add-player.ejs
+        * edit-player.ejs
+    * app.js    
